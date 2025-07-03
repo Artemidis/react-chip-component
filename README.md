@@ -19,7 +19,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Artemidis/chips.git
+git clone https://github.com/Artemidis/react-chip-component.git
 ```
 
 2. Перейдите в директорию проекта:
